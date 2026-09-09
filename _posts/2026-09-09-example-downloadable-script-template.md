@@ -32,11 +32,11 @@ Get-ChildItem -Path $Path -File -Recurse |
 
 **Option A — plain Markdown link** (opens/displays in-browser for text-based files like `.ps1`, `.py`, `.txt`):
 
-You can view or save the script [here](/assets/downloads/example-script/list-files-by-size.ps1).
+You can view or save the script [here]({{ '/assets/downloads/example-script/list-files-by-size.ps1' | relative_url }}).
 
 **Option B — forced download** (uses raw HTML with the `download` attribute, always prompts "Save As"):
 
-<a href="/assets/downloads/example-script/list-files-by-size.ps1" download>Download list-files-by-size.ps1</a>
+<a href="{{ '/assets/downloads/example-script/list-files-by-size.ps1' | relative_url }}" download>Download list-files-by-size.ps1</a>
 
 ## Usage
 

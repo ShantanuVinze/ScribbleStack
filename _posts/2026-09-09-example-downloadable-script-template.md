@@ -1,6 +1,6 @@
 ---
 title: "Example: Publishing an Article With a Downloadable Script"
-date: 2026-09-09 16:30:00 +0800
+date: 2026-09-09 14:00:00 +0800
 categories: [Scripts]
 tags: [example, template, powershell]
 description: A template post showing how to publish an article alongside a downloadable script on ScribbleStack.
